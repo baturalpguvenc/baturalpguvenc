@@ -1,16 +1,14 @@
-### Hi there 👋
-
-<!--
-**baturalpguvenc/baturalpguvenc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const profile = {
+ fullName: "Baturalp Güvenç",
+ programmingSkills: {
+    clientSoftware: ["HTML","CSS","JavaScript","React"],
+    serverSoftware: ["Node.js","Truffle","Hardhat"]
+    programming_lang:["Javascript","Solidity","Python","Java"]
+        },
+  languages: ["Türkçe", "English"],
+  currentFocus: "Change the World"
+}
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/baturalpp.guvenc/)
+[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-square&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@baturalpguvenc)
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=baturalpguvenc&show_icons=true&theme=gradient) 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=baturalpguvenc&show_icons=true&theme=radical)
