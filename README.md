@@ -1,4 +1,5 @@
-const profile = {
+const profile = { <img src="gorsel-link" width="auto">
+
  fullName: "Baturalp Güvenç",
 
  programmingSkills: {clientSoftware: ["HTML","CSS","JavaScript","React"],
