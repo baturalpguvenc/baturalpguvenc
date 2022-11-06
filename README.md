@@ -1,4 +1,4 @@
-const profile = { <img src="gorsel-link" width="auto">
+const profile = { <img src="oie_618104694Pdbdzm.jpg" width="auto">
 
  fullName: "Baturalp Güvenç",
 
