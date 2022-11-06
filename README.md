@@ -1,8 +1,13 @@
 const profile = {
  fullName: "Baturalp Güvenç",
- programmingSkills: {clientSoftware: ["HTML","CSS","JavaScript","React"],serverSoftware: ["Node.js","Truffle","Hardhat"] programming_lang:["Javascript","Solidity","Python","Java"]},
-  languages: ["Türkçe", "English"],
-  currentFocus: "Change the World"}
+
+ programmingSkills: {clientSoftware: ["HTML","CSS","JavaScript","React"],
+
+ serverSoftware: ["Node.js","Truffle","Hardhat"] programming_lang:["Javascript","Solidity","Python","Java"]},
+
+ languages: ["Türkçe", "English"],
+
+ currentFocus: "Change the World"}
 
 
 
