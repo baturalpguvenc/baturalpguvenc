@@ -3,7 +3,9 @@ const profile = {
 
  programmingSkills: {clientSoftware: ["HTML","CSS","JavaScript","React"],
 
- serverSoftware: ["Node.js","Truffle","Hardhat"] programming_lang:["Javascript","Solidity","Python","Java"]},
+ serverSoftware: ["Node.js","Truffle","Hardhat"] 
+ 
+programming_lang:["Javascript","Solidity","Python","Java"]},
 
  languages: ["Türkçe", "English"],
 
